@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🎂 Tenho 19 anos<br>📖 Estudando para me tornar full stack<br>🕛 1 ano de desenvolvimento e aprendizado<br>🎮 Gosto de jogos indies<br>💭 Costumam me chamar de "tito" ou "vitão"</p>
+<p align="center">🎂 Tenho 20 anos<br>📖 Estudando para me tornar full stack<br>🕛 1 ano de desenvolvimento e aprendizado<br>🎮 Gosto de jogos indies<br>💭 Costumam me chamar de "tito" ou "vitão"</p>
 
 ###
 
